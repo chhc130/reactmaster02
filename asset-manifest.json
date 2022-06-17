@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/reactmaster02/static/css/main.31d6cfe0.css",
+    "main.js": "/reactmaster02/static/js/main.4f4fee78.js",
+    "index.html": "/reactmaster02/index.html",
+    "main.4f4fee78.js.map": "/reactmaster02/static/js/main.4f4fee78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4f4fee78.js"
+  ]
+}
