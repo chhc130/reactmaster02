@@ -80,7 +80,7 @@ root.render(
   <React.StrictMode>
       <RecoilRoot>
         <ThemeProvider theme={darkTheme}>
-            <BrowserRouter basename='/reactanimation/'>
+            <BrowserRouter basename='/reactmaster02/'>
                 <GlobalStyle />
                 <App />
             </BrowserRouter>
